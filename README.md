@@ -8,7 +8,6 @@ I'm a postgraduate student in Computer Science with a passion for building impac
 
 ### What I'm Working On
 
-* FinGuard Pro – A smart fraud detection system combining machine learning and rule-based decision logic
 * OnSource – An AI-powered supplier sourcing platform designed for SMEs
 * DeFakeIt - An AI-powered system for detecting fake news articles in real-time using NLP and machine learning techniques.
 * Churn Prediction Platform – Featuring explainable AI dashboards and real-time predictions
