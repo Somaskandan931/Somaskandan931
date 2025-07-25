@@ -9,9 +9,7 @@ I'm a postgraduate student in Computer Science with a passion for building impac
 ### What I'm Working On
 
 * OnSource – An AI-powered supplier sourcing platform designed for SMEs
-* DeFakeIt - An AI-powered system for detecting fake news articles in real-time using NLP and machine learning techniques.
-* CareerGenie - Full-stack app that generates ATS-friendly resumes, parses uploaded resumes, searches jobs via API, and recommends best-fit jobs with scores.
-* Churn Prediction Platform – Featuring explainable AI dashboards and real-time predictions
+* PaperMind - a full-stack AI-powered academic paper recommender system
 
 ### Currently Learning
 
