@@ -9,7 +9,7 @@ I'm a postgraduate student in Computer Science with a passion for building impac
 ### What I'm Working On
 
 * OnSource – An AI-powered supplier sourcing platform designed for SMEs
-* PaperMind - a full-stack AI-powered academic paper recommender system
+* Improving all projects
 
 ### Currently Learning
 
