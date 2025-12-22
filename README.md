@@ -4,7 +4,7 @@ I'm a postgraduate student in Computer Science with a passion for building impac
 
 ### What I'm Working On
 
-* OnSource – An AI-powered supplier sourcing platform designed for SMEs
+* SourceUp – An AI-powered supplier sourcing platform designed for SMEs
 * Improving all projects
 
 ### Currently Learning
