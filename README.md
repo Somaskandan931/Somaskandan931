@@ -1,33 +1,42 @@
-## Hi there, I'm R.Somaskandan
+## Hi, I’m R. Somaskandan
 
-I'm a postgraduate student in Computer Science with a passion for building impactful AI/ML projects.
+I’m a postgraduate Computer Science student with a strong interest in **Applied AI, Machine Learning, and Generative AI**, focused on building systems that are **interpretable, reliable, and grounded in real-world use cases**.
 
-### What I'm Working On
+I enjoy working across the full lifecycle of AI systems — from problem understanding and data preparation to model development, evaluation, and backend integration.
 
-* SourceUp – An AI-powered supplier sourcing platform designed for SMEs
-* Improving all projects
+### Current Focus
+
+- Designing and refining end-to-end AI systems with an emphasis on **explainability and decision support**
+- Exploring **Retrieval-Augmented Generation (RAG)**, semantic search, and ML system design
+- Strengthening production-oriented skills through API-driven architectures
+
+### Selected Work
+
+- **SourceUp** — AI-powered supplier sourcing platform for SMEs using semantic search and learning-to-rank
+- **Career Genie (RAG)** — Resume-to-job matching system with explainable recommendations
+- **FinGuard Pro** — Explainable AI framework for financial fraud detection
+
+(See pinned repositories for detailed documentation.)
 
 ### Currently Learning
 
-* Deep Learning with TensorFlow and PyTorch
-* AI Engineering (following the Codebasics roadmap)
-* Full-Stack Development with React and Flask
-* Applied Data Science with real-world datasets
+- Deep Learning with PyTorch and TensorFlow  
+- AI Engineering and system design (Codebasics roadmap)  
+- Full-stack development with React, FastAPI, and Flask  
+- Applied data science using real-world datasets  
 
 ### Open to Collaborate On
 
-* Applied machine learning use cases
-* AI solutions for fintech, supply chain, or social good
-* Research and experimentation in real-world AI/ML problems
+- Applied machine learning and AI system development  
+- Explainable and trustworthy AI use cases  
+- Research-oriented or problem-driven AI projects  
 
-### How to Reach Me
+### Connect
 
-* LinkedIn: [linkedin.com/in/somaskandan](https://www.linkedin.com/in/somaskandan/)
-* Email: [somaskandan931@gmail.com](mailto:somaskandan931@gmail.com)
-* Portfolio: [rajagopal-somaskandan.netlify.app](https://rajagopal-somaskandan.netlify.app/)
+- LinkedIn: https://www.linkedin.com/in/somaskandan  
+- Email: somaskandan931@gmail.com  
+- Portfolio: https://rajagopal-somaskandan.netlify.app  
 
-### Fun Fact
+---
 
-I'm a morning runner, enjoy writing Tamil poems, and love to projects.
-
-PLEASE LOOK THROUGH REPO. I HAVE PUT IN ALOT OF EFFORT IN DOING PROJECTS!!!
+*I value well-documented, thoughtfully designed projects — feel free to explore the repositories.*
