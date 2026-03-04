@@ -1,6 +1,6 @@
 ## Hi, I’m R. Somaskandan
 
-I’m a postgraduate Computer Science student with a strong interest in **Applied AI, Machine Learning, and Generative AI**, focused on building systems that are **interpretable, reliable, and grounded in real-world use cases**.
+I’m a Computer Science student with a strong interest in **Applied AI, Machine Learning, and Generative AI**, focused on building systems that are **interpretable, reliable, and grounded in real-world use cases**.
 
 I enjoy working across the full lifecycle of AI systems — from problem understanding and data preparation to model development, evaluation, and backend integration.
 
