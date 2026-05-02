@@ -135,17 +135,6 @@ IndicBERT intent classifier with LLM fallback for 10+ Indian languages. 82.4% in
 | Origin 24-Hour Hackathon — SIMATS Engineering, Chennai | Finalist |
 | Smart India Hackathon 2025 | Participant |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Somaskandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somaskandan931&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaskandan931&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
